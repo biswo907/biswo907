@@ -3,12 +3,10 @@
 <h1 align="center">Hey 👋, I'm Biswajit Dash</h1>
 
 <div align="center">
-<h3 align="center">🚀 A Passionate Frontend Developer From India 🇮🇳</h3>
-<img align="center" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BsMzJub3VpbGFvaGp0bXhmZnp2bTM4ZzlkbXY4ZGo1d213cHJsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TYuocrjKLFC9tuszs/giphy.gif">
+<img align="center" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemZnMXUxMmxwcnlobG1ocmpybjRsengweHp3MGM3dWRleHdxa3BtNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif">
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 ---
 
 💼 **Available for Freelancing Projects**  
