@@ -1,28 +1,67 @@
-<h1 align="center">Hi 👋, I'm Biswajit Dash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="MasterHead" style="width:100%; height:auto;">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswo907&label=Profile%20views&color=0e75b6&style=flat" alt="biswo907" /> </p>
+<h1 align="center">Hey 👋, I'm Biswajit Dash</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biswo907" alt="biswo907" /></a> </p>
+<div align="center">
+<h3 align="center">🚀 A Passionate Frontend Developer From India 🇮🇳</h3>
+<img align="center" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BsMzJub3VpbGFvaGp0bXhmZnp2bTM4ZzlkbXY4ZGo1d213cHJsYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3TYuocrjKLFC9tuszs/giphy.gif">
+</div>
 
-- 🌱 I’m currently learning **HTML,CSS,React Js**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 💬 Ask me about **Frontend Devlopement**
+---
 
-- 📫 How to reach me **biswajitdash907@gmail.com**
+💼 **Available for Freelancing Projects**  
+✨ Currently learning **React.js, Tailwind, and Modern Frontend Tools**  
+🔥 Love building **beautiful UIs** & **interactive web apps**  
+🤝 Open to collaborating on **cool frontend projects**  
+💬 Ask me about **HTML | CSS | JavaScript | React**  
+📫 Reach me at **biswajitdash907@gmail.com**  
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 🛠 Tech Stack
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100022884964272" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itzbiswo" height="30" width="40" /></a>
-<a href="https://instagram.com/itzbiswo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzbiswo" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswo907&show_icons=true&locale=en&layout=compact" alt="biswo907" /></p>
+### 🏆 Badges & Fun
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=biswo907&theme=radical&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswo907&show_icons=true&locale=en" alt="biswo907" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswo907&" alt="biswo907" /></p>
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biswo907&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswo907&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=biswo907&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+<div align="left">
+  <a href="https://www.facebook.com/profile.php?id=100022884964272" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="Facebook logo" />
+  </a>
+  
+  <a href="https://instagram.com/itzbiswo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
+  </a>
+</div>
