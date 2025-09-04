@@ -1,4 +1,4 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="MasterHead" style="width:100%; height:auto;">
+<img src="https://private-user-images.githubusercontent.com/94581301/485820100-ece6d983-c3a5-43fa-9e9f-ede52e3239bd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTcwMTI5MTEsIm5iZiI6MTc1NzAxMjYxMSwicGF0aCI6Ii85NDU4MTMwMS80ODU4MjAxMDAtZWNlNmQ5ODMtYzNhNS00M2ZhLTllOWYtZWRlNTJlMzIzOWJkLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MDQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTA0VDE5MDMzMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY2NmJhNDFkZDU0MzMyZWYzYjk2ODhjZTI2ZDkwZDJlNjg1YjVjMzJhZDhlYzIzZTE5ZDhlYjZhYWJlNTI5MmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.mlnzZk6zJAe2Y5CAXnhWWPkNE9migRgrpxUS-UlmUAM" alt="MasterHead" style="width:100%; height:auto;">
 
 <h1 align="center">Hey 👋, I'm Biswajit Dash</h1>
 
